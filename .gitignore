@@ -332,3 +332,8 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+
+# Pulsar Interim build (buildinterim.sh output, 2026-10-04)
+/ToolSwitcherInterimBuild/
+/ToolSwitcherPlugin.dll
+/ToolSwitcherPlugin.Interim.dll
